@@ -1,7 +1,7 @@
 body{
 	font-family: arial, "Helvetica CY", "Nimbus Sans L", sans-serif;
 	color: #000;
-	background: yellow;
+	background: #ccc;
 	font-size: 14px;
 	line-height: 1.3;
 	min-width: 320px;
@@ -14,3 +14,4 @@ body{
 .content{
 	font-size: 15px;
 }
+
